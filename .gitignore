@@ -1,0 +1,12 @@
+/.gradle/
+/build/
+/run/
+/run-data/
+/.idea/
+/out/
+/repo/
+/mcmodsrepo/
+*.iml
+*.ipr
+*.iws
+/src/generated/resources/.cache/
